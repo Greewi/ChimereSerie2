@@ -1,0 +1,17 @@
+# Contrat social
+
+Le contrat social est un ensemble de règles qui servent à définir un cadre pour que la partie se déroule le mieux possible. Ces règles s’adressent principalement aux phases d’Aventure, mais elles s’appliquent aussi aux phases de Vie de la colonie.
+
+* **1 : Prenez ces règles de bonne foi.** Si vous êtes en train d’essayer d’interpréter certaines règles de ce contrat, que ce soit par malice, défiance ou pour pousser le contrat dans ses limites, vous êtes déjà en train d’enfreindre cette règle.
+* **2 : Respectez les autres joueurs.** Vous allez jouer avec d’autres êtres humains qui n’ont pas nécessairement envie de revivre les souffrances du quotidien. Tout ce qui relève de la discrimination, du harcèlement, de l’humiliation et d’autres comportement de ce genre ne seront pas tolérés. De plus, respectez les lignes et voiles [1] au cours de la partie, elles ne sont pas là pour rien.
+* **3 : Interprétez une chimère solidaire et aidante.** Ne trahissez pas les autres, ne laissez pas les conflits s’envenimer et ne pensez pas qu’à votre intérêt personnel. « C’est ce que ferait mon personnage » n’est pas une excuse pour de mauvaises actions, parce que, justement, vos chimères ne le feraient pas.
+* **4 : Prenez votre destin en main.** C’est un jeu en mode bac à sable. Il n’y a pas de scénario pour vous diriger. Prenez des initiatives, personne d’autre ne le fera pour vous. Si un autre participant ne sait pas quoi faire, guidez-le !
+* **5 : Documentez-vous pour ne partir complètement de zéro.** Vous allez devoir décider de la voie qu’emprunteront vos chimères pour progresser technologiquement. Il n’y a pas de manuel pour vous dire quoi faire [2], vous aurez à faire des recherches. Mais bon, vous en avez l’habitude non ? Pour une fois, ça ne sera pas sur l’armement soviétique des années 70.
+* **6 : Vous ne mourrez qu’une seule fois dans la vraie vie.** Si vos chimères vont entreprendre des expériences dangereuses pour améliorer leur quotidien, n’essayez pas de les reproduire dans la réalité. Même pour essayer de justifier un import dans le jeu.
+* **7 : Enfreindre ces règles vous expose à des sanctions.** Si malgré tout vous enfreignez ces règles, vous risquez d’être exclus de la partie, temporairement ou définitivement. [3]
+
+[1] À propos des lignes et voiles. Certaines choses peuvent mettre mal à l’aise certains participants et si le jeu mettra vos chimères à l’épreuve, les joueurs et la meneuse ne sont pas là pour souffrir. Pour éviter les situations susceptibles d’engendrer une souffrance émotionnelle, nous allons utiliser la méthode des lignes et voiles. Au début de chaque aventure, les participants vont indiquer ce qu’ils ne veulent qu’il ne soit pas évoqué en jeu (les lignes) et ce qu’ils ne veulent pas voir à l’écran (les voiles).
+
+[2] Ce n’est pas complètement vrai. Il existe quelques livres que je ne peux que vous conseiller si vous souhaitez plonger dans la formidable histoire du développement technique et scientifique de l’humanité. Notamment *The Knowledge* de Lewis Dartnell et *How to Invent Everything* de Ryan North.
+
+[3] Pour des raisons évidentes, enfreindre la règle 6 peut aussi vous exclure définitivement de la vie. Vraiment, ne faites pas n’importe quoi.
